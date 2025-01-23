@@ -1,0 +1,15 @@
+E:\WD\WEBDROP\WD_TAILORING\WD.tailoring.Infrastructure\bin\Debug\net8.0\WD.Tailoring.Infrastructure.deps.json
+E:\WD\WEBDROP\WD_TAILORING\WD.tailoring.Infrastructure\bin\Debug\net8.0\WD.Tailoring.Infrastructure.dll
+E:\WD\WEBDROP\WD_TAILORING\WD.tailoring.Infrastructure\bin\Debug\net8.0\WD.Tailoring.Infrastructure.pdb
+E:\WD\WEBDROP\WD_TAILORING\WD.tailoring.Infrastructure\bin\Debug\net8.0\WD.Tailoring.Core.dll
+E:\WD\WEBDROP\WD_TAILORING\WD.tailoring.Infrastructure\bin\Debug\net8.0\WD.Tailoring.Core.pdb
+E:\WD\WEBDROP\WD_TAILORING\WD.tailoring.Infrastructure\obj\Debug\net8.0\WD.Tailoring.Infrastructure.csproj.AssemblyReference.cache
+E:\WD\WEBDROP\WD_TAILORING\WD.tailoring.Infrastructure\obj\Debug\net8.0\WD.Tailoring.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\WD\WEBDROP\WD_TAILORING\WD.tailoring.Infrastructure\obj\Debug\net8.0\WD.Tailoring.Infrastructure.AssemblyInfoInputs.cache
+E:\WD\WEBDROP\WD_TAILORING\WD.tailoring.Infrastructure\obj\Debug\net8.0\WD.Tailoring.Infrastructure.AssemblyInfo.cs
+E:\WD\WEBDROP\WD_TAILORING\WD.tailoring.Infrastructure\obj\Debug\net8.0\WD.Tailoring.Infrastructure.csproj.CoreCompileInputs.cache
+E:\WD\WEBDROP\WD_TAILORING\WD.tailoring.Infrastructure\obj\Debug\net8.0\WD.Tailoring.Infrastructure.csproj.CopyComplete
+E:\WD\WEBDROP\WD_TAILORING\WD.tailoring.Infrastructure\obj\Debug\net8.0\WD.Tailoring.Infrastructure.dll
+E:\WD\WEBDROP\WD_TAILORING\WD.tailoring.Infrastructure\obj\Debug\net8.0\refint\WD.Tailoring.Infrastructure.dll
+E:\WD\WEBDROP\WD_TAILORING\WD.tailoring.Infrastructure\obj\Debug\net8.0\WD.Tailoring.Infrastructure.pdb
+E:\WD\WEBDROP\WD_TAILORING\WD.tailoring.Infrastructure\obj\Debug\net8.0\ref\WD.Tailoring.Infrastructure.dll
