@@ -183,8 +183,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\WD\\WEBDROP\\WD_TAILORING\\WD.tailoring.Core\\WD.Tailoring.Core.csproj": {
-                "projectPath": "E:\\WD\\WEBDROP\\WD_TAILORING\\WD.tailoring.Core\\WD.Tailoring.Core.csproj"
+              "E:\\WD\\WEBDROP\\WD_TAILORING\\WD.tailoring.core\\WD.Tailoring.Core.csproj": {
+                "projectPath": "E:\\WD\\WEBDROP\\WD_TAILORING\\WD.tailoring.core\\WD.Tailoring.Core.csproj"
               }
             }
           }
